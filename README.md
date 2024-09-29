@@ -1,2 +1,2 @@
-# Python-API
+# python-api-challenge
 Challenge 6
